@@ -22,7 +22,7 @@ const Navbar = () => {
           Projects
         </NavLink>
         <a
-          href="/portfolio/public/ASIF-AL-AMIN_Frontend_Developer_CV.pdf"
+          href="/ASIF-AL-AMIN_Frontend_Developer_CV.pdf"
           download
           className="navlink"
         >
