@@ -1,0 +1,193 @@
+
+
+ .home {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    gap: 60px;                 
+    margin-top: 10%;
+            
+}
+
+
+.my-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid rgb(50, 205, 159);
+    box-shadow: 4px 4px 8px  #7ed71e;
+    margin-left: 0; 
+}
+
+
+.intro {
+   
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.intro h1 {
+    font-size: 2.3rem;
+    margin-bottom: 10px;
+     transition: 0.2s;
+}
+.intro h1:hover {
+    
+    margin-bottom: 14px;
+    transition: 0.2s;
+}
+.intro h1 span.spanlight{
+    color: #1b294d;
+    text-shadow: 4px 4px 8px #2980a8;
+}
+.intro h1 span.spandark{
+    color: #b7e22c;
+    text-shadow: 3px 3px 6px #00e6ad;
+}
+
+.intro h3 {
+    font-size: 1.7rem;
+}
+
+.intro h3:hover {
+   margin-bottom: 11px;
+    transition: 0.2s;
+     cursor: default;
+}
+
+.intro p{
+font-size: 1.3rem;
+}
+
+.intro p:hover {
+   margin-bottom: 9px;
+    transition: 0.2s;
+    cursor: default;
+}
+
+.darkmode .icon1{
+color: #4ed9d9;
+font-size: 1.5rem;
+box-shadow: 3px 3px 6px #4ed9d9;
+
+}
+.icon1{
+color: #000000;
+font-size: 1.5rem;
+box-shadow: 3px 3px 6px #ae6b08;
+
+}
+
+.pngicon{
+    height: 60px;
+    width: 60px;
+    box-shadow: 3px 3px 6px #314bcb;
+}
+.intro a{
+font-size: 1.3rem;
+text-decoration: none;
+color: inherit;
+}
+.intro a:hover{
+text-decoration: underline;
+
+   
+}
+
+
+.contract-links {
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+        transition: 0.4s;
+    
+    
+}
+.contract-links:hover {
+    gap: 60px;
+    transition: 0.4s;
+    
+}
+
+.icon2{
+    color: #ff4500;
+    font-size: 2.5rem;
+    box-shadow: 3px 3px 6px #e64d00;
+
+
+    }
+
+
+@media screen and (max-width: 768px) {
+    .home {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20%;
+    }
+
+    .my-pic {
+        width: 200px;
+        height: 200px;
+    }
+
+    .intro {
+        padding-right: 0;
+        max-width: none;
+        text-align: center;
+    }
+    
+    .intro h1 {
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    .intro h1 span{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+    .intro h3 {
+        font-size: 0.8rem;
+        font-weight: 500;
+    }
+    
+    .intro p {
+        font-size: 0.5rem;
+        font-weight: 400;
+    }
+
+    .icon1{
+        font-size: 0.8rem;
+        background: transparent;
+        box-shadow: 2px 2px 4px #ff4500;
+    }
+
+    .intro a{
+font-size: 0.7rem;
+
+}
+div {
+    font-size: 0.5rem;
+  siminutemailer.icon1 {
+    a {
+
+    }
+  }
+}
+
+.pngicon{
+    height: 30px;
+    width: 30px;
+    box-shadow: 3px 3px 6px #314bcb;
+}
+
+.darkmode .icon1{
+color: #4ed9d9;
+font-size: 0.8rem;
+box-shadow: 2px 2px 4px #4ed9d9;
+
+}
+
+}
+
