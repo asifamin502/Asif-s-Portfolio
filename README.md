@@ -3,7 +3,7 @@
 
 # 3. Portfolio Website README
 
-
+```md
 # Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a Frontend Developer.
@@ -25,8 +25,9 @@ https://asif-portfolio001.netlify.app/
 
 ## Installation
 
-
+```bash
 git clone git@github.com:asifamin502/Product-listing-app.git
 cd portfolio
 npm install
 npm run dev
+
