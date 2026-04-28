@@ -24,8 +24,6 @@ https://asif-portfolio001.netlify.app/
 
 
 ## Installation
-
-```bash
 git clone git@github.com:asifamin502/Product-listing-app.git
 cd portfolio
 npm install
