@@ -1,10 +1,10 @@
 
 ---
 
-# 💼 3. Portfolio Website
+#  Portfolio Website
 
 ```md
-# 💼 Portfolio Website
+# Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a Frontend Developer.
 
