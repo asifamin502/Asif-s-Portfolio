@@ -8,12 +8,6 @@
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a Frontend Developer.
 
-## Live Demo
-
----
-
-#  Portfolio Website
-
 ```md
 # Portfolio Website
 
@@ -29,9 +23,9 @@ https://asif-portfolio001.netlify.app/
 - Contact section
 
 ## Tech Stack
-- React
-- TypeScript / JavaScript
-- CSS / Tailwind
+- React With Typescruipt
+- JavaScript
+- CSS 
 
 
 
