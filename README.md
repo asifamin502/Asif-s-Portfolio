@@ -18,9 +18,10 @@ https://asif-portfolio001.netlify.app/
 - Contact section
 
 ## Tech Stack
-- React
-- JavaScript / TypeScript
-- CSS / Tailwind
+- React With TypeScript
+- JavaScript 
+- CSS 
+
 
 ## Installation
 
