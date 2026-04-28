@@ -20,7 +20,7 @@ const Projects = () => {
   <p>A Product Listing App with product Listing using API, cart, search and responsive Design</p>
 <div className='projectbuttons'>
 
-<a href='https://cartify-product-app.netlify.app/' target='_blank'><FaExternalLinkAlt />Live Demo</a>
+<a href='https://cartify-product-listing-app.netlify.app/' target='_blank'><FaExternalLinkAlt />Live Demo</a>
 <a href='https://github.com/asifamin502/Product-listing-app' target='_blank'><FaCode />Source Code</a>
 </div>
 </div>
@@ -32,7 +32,7 @@ const Projects = () => {
 
 <div className='projectbuttons'>
 
-<a href='https://todo-app-localstore.netlify.app/' target='_blank'><FaExternalLinkAlt />Live Demo</a>
+<a href='https://todo-app-asif001.netlify.app/' target='_blank'><FaExternalLinkAlt />Live Demo</a>
 <a href='https://github.com/asifamin502/Todo-app' target='_blank'><FaCode />Source Code</a>
 </div>
     </div>
